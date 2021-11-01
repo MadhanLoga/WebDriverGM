@@ -25,5 +25,6 @@ public class ContextClick {
 		driver.switchTo().alert().accept(); // close alert box
 		Thread.sleep(2000);
 		driver.close();
+		gdgrg
 	}
 }
